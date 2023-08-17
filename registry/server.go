@@ -4,8 +4,8 @@ import (
 	"net/http/httptest"
 
 	"github.com/docker/docker/api/server/router"
-	"github.com/khulnasoft-labs/testdocker/auth"
-	"github.com/khulnasoft-labs/testdocker/server"
+	"github.com/khulnasoft-lab/testdocker/auth"
+	"github.com/khulnasoft-lab/testdocker/server"
 )
 
 type Option struct {

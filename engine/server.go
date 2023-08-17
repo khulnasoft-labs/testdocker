@@ -8,8 +8,8 @@ import (
 
 	"github.com/docker/docker/api/server/router"
 
-	"github.com/khulnasoft-labs/testdocker/engine/image"
-	"github.com/khulnasoft-labs/testdocker/server"
+	"github.com/khulnasoft-lab/testdocker/engine/image"
+	"github.com/khulnasoft-lab/testdocker/server"
 )
 
 const (
