@@ -14,7 +14,7 @@ import (
 	v1 "github.com/google/go-containerregistry/pkg/v1"
 	"github.com/google/go-containerregistry/pkg/v1/tarball"
 
-	"github.com/khulnasoft-labs/testdocker/tarfile"
+	"github.com/khulnasoft-lab/testdocker/tarfile"
 )
 
 // registryRouter is a router to talk with the image controller
