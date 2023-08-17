@@ -17,7 +17,7 @@ import (
 	"github.com/docker/docker/pkg/ioutils"
 	"github.com/docker/go-connections/nat"
 	"github.com/google/go-containerregistry/pkg/v1/tarball"
-	"github.com/khulnasoft-labs/testdocker/tarfile"
+	"github.com/khulnasoft-lab/testdocker/tarfile"
 	"golang.org/x/xerrors"
 )
 

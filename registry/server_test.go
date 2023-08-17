@@ -8,7 +8,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/khulnasoft-labs/testdocker/auth"
+	"github.com/khulnasoft-lab/testdocker/auth"
 
 	"github.com/stretchr/testify/require"
 

@@ -1,4 +1,4 @@
-module github.com/khulnasoft-labs/testdocker
+module github.com/khulnasoft-lab/testdocker
 
 go 1.14
 
