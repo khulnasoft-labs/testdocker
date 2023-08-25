@@ -3,6 +3,7 @@ module github.com/khulnasoft-lab/testdocker
 go 1.14
 
 require (
+	github.com/containerd/containerd v1.5.2 // indirect
 	github.com/docker/docker v24.0.5+incompatible
 	github.com/docker/go-connections v0.4.0
 	github.com/golang-jwt/jwt/v4 v4.5.0
