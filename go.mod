@@ -11,6 +11,6 @@ require (
 	github.com/google/go-containerregistry v0.16.1
 	github.com/gorilla/mux v1.8.0
 	github.com/stretchr/testify v1.8.4
-	golang.org/x/xerrors v0.0.0-20220907171357-04be3eba64a2
+	golang.org/x/xerrors v0.0.0-20231012003039-104605ab7028
 	google.golang.org/grpc v1.58.2
 )
