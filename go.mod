@@ -8,7 +8,7 @@ require (
 	github.com/distribution/reference v0.5.0 // indirect
 	github.com/docker/docker v25.0.3+incompatible
 	github.com/docker/go-connections v0.5.0
-	github.com/golang-jwt/jwt/v4 v4.5.0
+	github.com/golang-jwt/jwt/v4 v4.5.1
 	github.com/google/go-containerregistry v0.17.0
 	github.com/gorilla/mux v1.8.0
 	github.com/stretchr/testify v1.9.0
